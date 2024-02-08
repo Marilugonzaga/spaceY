@@ -1,36 +1,32 @@
 <p align="center">
-  <img alt="SpaceY" src=".github/Cover.jpg">
+  <img alt="SpaceY" src="github/cover.png">
 </p>
 
 # Desktop
 
 <h1 align="center">
-    <img alt="Preview Desktop" title="Preview Desktop" src=".github/Desktop.jpg" />
+    <img alt="Preview Desktop" title="Preview Desktop" src="github/desktop.png" />
 </h1>
 
 <br>
 
-## 🧪 Technologies
+## 💻 Tecnologias
 
-This project was developed using the following technologies:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [Vite](https://vitejs.dev/)
 - [Swiper](https://swiperjs.com/)
 
-## 🔖 Layout
+## 📝 Layout
 
-You can view the project through the links below:
+Você pode visualizar o projeto através do link abaixo:
 
 - [Figma](https://www.figma.com/community/file/986447430009792279/duplicate)
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+## 🔗 Link
 
-## 📝 License
+Acesse a página através do link abaixo:
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Made with 💜 by [birobirobiro](https://www.birobirobiro.dev) 👋
+- [SpaceY](https://marilugonzaga.github.io/spaceY/)
